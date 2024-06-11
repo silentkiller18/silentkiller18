@@ -4,7 +4,6 @@
 <h3 align="center">"Tech Admirer: Embracing Technology with Verve and Eagerness!"</h3>
 <div id="header" align="center">
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
@@ -67,9 +66,7 @@
 - ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 - ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silentkiller18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silentkiller18&layout=compact&theme=radical)
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silentkiller18&hide_progress=true)
 ![](https://raw.githubusercontent.com/silentkiller18/silentkiller18/output/github-contribution-grid-snake.svg)
 
 
